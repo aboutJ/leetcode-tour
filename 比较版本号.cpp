@@ -24,7 +24,3 @@ public:
     }
 };
 
-int main() {
-  Solution s;
-  s.compareVersion("1.01")
-}
